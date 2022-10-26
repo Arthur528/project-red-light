@@ -1,6 +1,6 @@
 # Team Profile Generator
 ## Bootcamp Challenge 10: Object-Oriented Programming
-[![MSU](https://img.shields.io/badge/MSU-Coding%20Bootcamp-green/)](https://bootcamp.msu.edu/)
+[![UW](https://img.shields.io/badge/UW-Coding%20Bootcamp-green/)](https://bootcamp.uw.edu/)
 
 ## Technologies
 ![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
